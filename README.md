@@ -28,7 +28,7 @@
 
 ## Find me elsewhere
 
-<a href="https://discord.com/users/(442036063708381194)">
+<a href="https://discord.com/users/442036063708381194">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg"/> 
 </a>
 <a href="https://www.linkedin.com/in/inemarielt/">
