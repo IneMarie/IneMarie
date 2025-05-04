@@ -24,7 +24,7 @@
 - Portfolio
 
 ### Highlights 🌟
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IneMarie&repo=Wordle&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0d1117)](https://github.com/IneMarie/Wordle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IneMarie&repo=Wordle&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0d111700)](https://github.com/IneMarie/Wordle)
 
 ## Find me elsewhere
 
