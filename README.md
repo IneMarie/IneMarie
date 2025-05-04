@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9A6C8&height=100&section=header" alt="header"/> 
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=5f4c5e&width=435&lines=Hi!+I'm+Ine+Marie;The+number+1+Haskell+hater+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=907088&width=435&lines=Hi!+I'm+Ine+Marie;The+number+1+Haskell+hater+%3A)" alt="Typing SVG" /></a>
 
 
 
