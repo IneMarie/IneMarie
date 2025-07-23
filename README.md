@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9A6C8&height=100&section=header" alt="header"/> 
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=907088&width=435&lines=Hi!+I'm+Ine+Marie;The+number+1+Haskell+hater+%3A)" alt="Ine Marie Lund Thorsen" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=907088&width=435&lines=Hi!+I'm+Ine+Marie!;" alt="Ine Marie Lund Thorsen" /></a>
 
 
 
@@ -19,26 +19,25 @@
 
 ##  What I'm Working On 🛠️
 
-- Obligatory tasks from UiB (mostly on GitLab)
-- Some small side projects related to my other hobbies
+- Tasks related to my studies (on GitLab)
 - Portfolio
 
 ### Highlights 🌟
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IneMarie&repo=Wordle&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0d111700)](https://github.com/IneMarie/Wordle)
 
 ## Find me elsewhere
-
+<!--
 <a href="https://discord.com/users/442036063708381194">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg"/> 
-</a>
+</a> -->
 <a href="https://www.linkedin.com/in/inemarielt/">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg"/> 
 </a>
-
+<!--
 ## Employer?
 > [!IMPORTANT]  
 > <a href="" download>Download my resume (WIP)</a>
-
+-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9A6C8&height=100&section=footer" alt="footer"/>
 
