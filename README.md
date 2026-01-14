@@ -15,11 +15,11 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-squaree&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-squaree&logo=mysql&logoColor=white)
 
-↳  Currently studying Computer Science at UiB
+↳  Currently looking for work
 
 ##  What I'm Working On 🛠️
 
-- Tasks related to my studies (on GitLab)
+- Kattis problems
 - Portfolio
 
 ### Highlights 🌟
